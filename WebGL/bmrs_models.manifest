@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 3985769511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 638831475e0342919414cfd7ea1e8bd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5acfa98debc5c5c91592b4fd7dc7c9ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/bmrs/Materials/m_mat_pink_norm.mat
+- Assets/Models/bmrs/Materials/m_mat_purple_ norm.mat
+- Assets/Models/bmrs/Materials/m_mat_black_ norm.mat
+- Assets/Models/bmrs/Materials/m_mat_rose_gray.mat
+- Assets/Models/bmrs/Materials/m_mat_white.mat
+- Assets/Models/bmrs/Materials/noise_bake 1.png
+- Assets/Models/bmrs/#0006_tesla.fbx
+- Assets/Models/bmrs/Materials/bmr_skin.mat
+- Assets/Models/bmrs/Materials/m_colorful_pink.mat
+- Assets/Models/bmrs/Materials/m_mat_pink_ dark.mat
+- Assets/Models/bmrs/Materials/m_metal_yellow.mat
+- Assets/Models/bmrs/Materials/m_mat_red_ ligt.mat
+- Assets/Models/bmrs/Materials/m+_emissionweight_red.mat
+- Assets/Models/bmrs/Materials/m_colorful_blue_hypatia.mat
+- Assets/Models/bmrs/Materials/m_mat_orange_ norm.mat
+- Assets/Models/bmrs/Materials/m_subsurface_skin.mat
+- Assets/Models/bmrs/Materials/m_colorful_blue.mat
+- Assets/Models/bmrs/Materials/m_mat_cyan_ dark.mat
+- Assets/Models/bmrs/Materials/m_mat_white_ norm.mat
+- Assets/Models/bmrs/Materials/m_colorful_purple.mat
+- Assets/Models/bmrs/Materials/m+_emissionweight_orange.mat
+- Assets/Models/bmrs/Materials/m_crystal_roughness.mat
+- Assets/Models/bmrs/Materials/m_emissionweight_blue.mat
+- Assets/Models/bmrs/Materials/bmr_mouse.mat
+- Assets/Models/bmrs/Materials/m_mat_blue_ dark.mat
+- Assets/Models/bmrs/#0046_galileo.fbx
+- Assets/Models/bmrs/Materials/bmr_cover_final.mat
+- Assets/Models/bmrs/Materials/m_mat_purple_ ligt.mat
+- Assets/Models/bmrs/Materials/m_mat_rose_light.mat
+- Assets/Models/bmrs/Materials/bmr_faceEyes.mat
+- Assets/Models/bmrs/Materials/m_emissionweight_yellow.mat
+- Assets/Models/bmrs/Materials/m+_emissionweight_green.mat
+- Assets/Models/bmrs/#0012_newton.fbx
+- Assets/Models/bmrs/Materials/m_glossy_pink_ligt.mat
+- Assets/Models/bmrs/#0044_hypatia.fbx
+- Assets/Models/bmrs/Materials/m_colorful_yellow.mat
+- Assets/Models/bmrs/Materials/m_mat_yellow_ norm.mat
+- Assets/Models/bmrs/#0042_liqingzhao.fbx
+- Assets/Models/bmrs/#0028_qinshihuang.fbx
+- Assets/Models/bmrs/#0003_davinci.fbx
+- Assets/Models/bmrs/Materials/m_mat_pink_ ligt.mat
+- Assets/Models/bmrs/#0039_picasso.fbx
+- Assets/Models/bmrs/Materials/m_laser_puprle.mat
+- Assets/Models/bmrs/Materials/m_emissionweight_blue.001.mat
+- Assets/Models/bmrs/Materials/m_mat_blue_ norm.mat
+- Assets/Models/bmrs/Materials/m_metal_blue.mat
+- Assets/Models/bmrs/#0020_luban.fbx
+- Assets/Models/bmrs/#0013_jobs.fbx
+- Assets/Models/bmrs/Materials/m_mat_orange_ gray.mat
+- Assets/Models/bmrs/Materials/m_emissionweight_blue_white.mat
+- Assets/Models/bmrs/Materials/m_emissionweight_cyan.mat
+- Assets/Models/bmrs/Materials/m_mat_yellow_light.mat
+- Assets/Models/bmrs/Materials/m_emissionweight_purple.mat
+- Assets/Models/bmrs/Materials/m_mat_purple_ gray.mat
+- Assets/Models/bmrs/Materials/m_mat_cyan_ norm.mat
+- Assets/Models/bmrs/Materials/m_colorful_cyan.mat
+Dependencies: []
